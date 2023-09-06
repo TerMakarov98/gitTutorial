@@ -1,0 +1,10 @@
+#main {background:url("img/main.png") repeat repeat; opacity: 1; height:800px; }
+#page { width:800px; height:155px; background:#031E3E;font-family:Times New Roman;}
+#header { background:url(img/header.jpg) repeat-y red; width:770px; height:100px; margin-bottom:0px; padding:15px; }
+#menu { background:#3AE9FF; width:150px; height:450px;float:left;}
+#content { background:#3AE9FF; width:645px; height:450px;float:right;font-size:14px;font-family:Times;margin-bottom:0px;overflow:auto;}
+#footer { background:url(img/footer.jpg) repeat-x yellow; width:800px; height:100px;font-size:14px;font-family:Times;font-color:white;float:left; }
+
+h1 {text-align:center; }
+h2 {text-align:center; }
+h3 {font-size:14px; }
